@@ -15,8 +15,8 @@ public class PBOIF2_10119065_Latihan1_Biodata {
         System.out.println("TEMPAT LAHIR\t: Tasikmalaya");
         System.out.println("TANGGAL LAHIR\t: 24 September 2001");
         System.out.println("------------------------");
-        System.out.println("HOBI\t\t: ");
-        System.out.println("MAKES\t\t: ");
+        System.out.println("HOBI\t\t: Ngoding & Game");
+        System.out.println("MAKES\t\t: Nasi Goreng");
         System.out.println("MIKES\t\t: Air Putih");
     }
     
